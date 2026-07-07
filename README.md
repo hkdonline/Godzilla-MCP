@@ -2,12 +2,19 @@
 哥斯拉 MCP
 
 改版于：https://github.com/cns1rius/godzilla-mcp
+
 使用方式：
+
 1、添加插件
+
 <img width="760" height="459" alt="image" src="https://github.com/user-attachments/assets/3b5e29b3-c5a1-4dfe-8dad-bf52e3b7f9e7" />
+
 2、启用MCP
+
 <img width="488" height="128" alt="image" src="https://github.com/user-attachments/assets/356bbc17-6176-4d3d-bdce-ee581a00e39a" />
+
 3、配置
+
 ····
 {
   "mcpServers": {
@@ -17,13 +24,18 @@
   }
 }
 ····
+
 4、当前支持操作：
+
 <img width="1074" height="545" alt="image" src="https://github.com/user-attachments/assets/b750c0b7-3028-4293-8b2a-7c396592ea5b" />
+
 5、和AI对话操作shell
+
 <img width="1170" height="661" alt="image" src="https://github.com/user-attachments/assets/fc116082-5e27-4cf1-9a9e-2d72b8a4ba04" />
 <img width="1185" height="680" alt="image" src="https://github.com/user-attachments/assets/374575e8-0e16-4a6a-91c3-6c86428988a6" />
 
 00：哥斯拉目录下有日志可以排错。
+
 <img width="589" height="193" alt="image" src="https://github.com/user-attachments/assets/ef4c9167-5d9e-49f9-b073-f734b7ad0cb2" />
 
 
